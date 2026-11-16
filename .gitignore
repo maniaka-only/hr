@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Angular build and cache
+client/dist/
+client/.angular/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
